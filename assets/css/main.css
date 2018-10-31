@@ -34,7 +34,7 @@ a {
     text-decoration: none;
 }
 
-a:hover {
+.nav li a:hover {
 	color: #05ab9f;
 	font-weight: 400;
 }
@@ -177,4 +177,18 @@ p{
 
 img{
 	border-radius: 6px;
+}
+
+
+/*********************footer**************************************/
+.primary-footer{
+	color: #648880;
+	font-size: 14px;
+	padding-bottom: 44px;
+	padding-top: 44px;
+}
+
+.primary-footer small{
+	float: left;
+	font-weight: 400;
 }
