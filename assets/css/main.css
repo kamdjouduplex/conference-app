@@ -90,6 +90,13 @@ a {
 	padding-left: 15px;
 	padding-right: 15px;
 }
+
+.row{
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
 .col-1-3{
 	width: 33.33%;
 }
@@ -165,6 +172,9 @@ p{
 	float: right;
 }
 
+.cols-section div{ 
+	background: #fff;
+}
 
 /*********************adding images to the column******************/
 .card{
@@ -181,14 +191,40 @@ img{
 
 
 /*********************footer**************************************/
-.primary-footer{
-	color: #648880;
-	font-size: 14px;
-	padding-bottom: 44px;
-	padding-top: 44px;
+nav.footer-nav {
+  float: right;
+  width: 700px;
+  height: 50px;
 }
 
-.primary-footer small{
-	float: left;
-	font-weight: 400;
+.footer-nav li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.footer-nav a {
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+}
+
+.footer-nav a:hover {
+  color: black;
+}
+
+a.footer-text {
+  float: left;
+  display: block;
+  position: relative;
+  left: 100px;
+  font-size: 17px;
+  color: #505050;
+}
+
+.footer ul.nav-list {
+  list-style-type: none;
+  margin:0;
+  padding: 0;
+  float: right;
 }
