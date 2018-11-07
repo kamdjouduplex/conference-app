@@ -1,0 +1,40 @@
+.name{
+	margin-bottom: 2px;
+	font-weight: 400;
+}
+.position{
+	margin-bottom: 15px;
+}
+.s-description{
+	padding-left: 0;
+	padding-right: 0;
+	font-weight: 400;
+}
+
+.profil img{
+	margin: 0 auto;
+	width: 100px;
+	display: block;
+	border-radius: 50%;
+}
+
+.profil-text{
+	border: 1px solid #ccc;
+	margin-left: 60px ;
+	margin-right: 60px ;
+	margin-top: -50px;
+	padding-top: 60px;
+	padding-bottom: 10px;
+}
+
+.profil-text a{
+	color: #05ab9f;
+}
+
+.sp{
+	margin-bottom: 40px;
+}
+
+.bproo{
+	border: 1px solid #ccc;
+}
