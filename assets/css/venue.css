@@ -1,0 +1,13 @@
+address h1{
+	margin-bottom: 0;
+	font-weight: 400;
+}
+
+.phone{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.lien{
+	color: #05ab9f;
+}
