@@ -1,0 +1,55 @@
+ul{
+	list-style-type: square;
+	padding-left: 40px;
+	margin-top: -10px;
+}
+
+h1{
+	font-weight: bold;
+}
+
+h3{
+	text-transform: uppercase;
+	margin-top: -15px;
+}
+
+p{
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.input-group{
+	width: 90%;
+	margin: 8px auto;
+}
+.input-group label{
+	display: block;
+	margin-bottom: 5px;
+	font-weight: 300;
+}
+
+.input-group input, select, textarea{
+	display: block;
+	width: 100%;
+	border: 1px solid #c6c9cc;
+    border-radius: 4px;
+    padding: 5px 8px;
+	font: 300 16px/22px "Lato","Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.input-group input, select{
+	height: 35px;
+}
+
+.btn{
+	height: 35px;
+	padding: 10px 30px;
+	font-size: 14px;
+	margin-left: 5%;
+}
+
+.btn-primary{
+	background-color: #05ab9f;
+	text-transform: uppercase;
+}
+
