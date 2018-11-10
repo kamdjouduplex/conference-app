@@ -1,0 +1,27 @@
+
+.test{
+	background: rgba(100, 150, 200, 0.5);
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+	height: 100px;
+}
+
+.profil img{
+	width:100px;
+	margin: 15px auto;
+	display: block;
+	border-radius: 50%;
+}
+
+.more-details{
+	text-align: center;
+	border: 4px solid #ccc;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: -70px;
+	padding-top: 60px;
+	padding-bottom: 20px;
+}
+
+.more-details a{
+	color: #05ab9f;
+}
