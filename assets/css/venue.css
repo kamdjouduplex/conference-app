@@ -4,10 +4,13 @@ address h1{
 }
 
 .phone{
-	padding-left: 0;
-	padding-right: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-top: 0;
 }
 
 .lien{
-	color: #05ab9f;
+	color: #09ffaa;
 }
+
